@@ -3,7 +3,7 @@ Created by <a href="https://github.com/abhat222"><strong>Asif Bhat</strong></a>
 </p>
  
  <p align="Center">
- Hosted By
+ Hosted By <strong> Deepanshu Vohra </strong>
 </p>
  
 # Data Science Cheatsheets
